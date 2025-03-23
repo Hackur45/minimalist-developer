@@ -13,7 +13,8 @@ const pressStart2P = Press_Start_2P({
 
 export const metadata: Metadata = {
   title: "Minimalist Developer",
-  description: "Essential web development tools in one place"
+  description: "Essential web development tools in one place",
+  icons:'/favicon.ico'
 }
 
 export default function RootLayout({
