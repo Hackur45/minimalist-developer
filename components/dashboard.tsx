@@ -71,7 +71,7 @@ export function Dashboard() {
             <SidebarFooter className="p-4">
               <div className="flex flex-col gap-2">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Hackur45"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 rounded-md p-2 text-xs hover:bg-accent hover:text-accent-foreground"
