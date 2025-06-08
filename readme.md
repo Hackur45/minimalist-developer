@@ -22,14 +22,6 @@
 
 ## <p align="center">🚀 Tech Stack</p>
 
-### <p align="center">Programming Languages</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
-</p>
-
 ---
 
 ### <p align="center">🌐 Frameworks & Technologies</p>
