@@ -89,3 +89,10 @@ Together, we can enhance this tool for minimalist developers everywhere!
 </p>
 
 <p align="center">🚀 <strong>Stay tuned for updates and new features!</strong> 🚀</p>
+
+## <p align="center">Credits</p>
+
+<p align="center">
+  This project uses the base frontend generated with <a href="https://v0.dev" target="_blank"><strong>V0.dev</strong></a>. All further enhancements, features, and integrations were developed and upgraded manually.
+</p>
+
